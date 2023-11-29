@@ -1,0 +1,13 @@
+1.) Login page doesn't need dd for who is loggin in
+2.) only admin shd be able to add a doc, signup shdnt have option to
+    add a dentist
+3.) only one admin will be present, so signup shd be just for the 
+    patient, cuz admin panel will add doct.
+4.) schedule frame in docs workarea will have a dp option(which can
+    be stored in db as a filename, and will be passed to the img
+    attribute.(for this we can add an upload an image option in 
+    signup page.)
+5.) clicking on the schdule person,s card will give a short detail
+    about the patient,to let the dentist make required preperations.
+6.) schedule will have date rather than upnext and schdules will be
+    present according to that day.
